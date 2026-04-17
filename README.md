@@ -52,3 +52,5 @@ app/
  └── page.tsx
  video deploy link:|
  https://drive.google.com/file/d/1Kx-y-SkO799yDZRzh3QUgm8jYvKuCK5P/view?usp=drive_link
+
+like:https://twin-mind-ai-project.vercel.app/
